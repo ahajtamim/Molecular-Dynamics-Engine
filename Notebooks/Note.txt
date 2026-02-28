@@ -1,0 +1,2 @@
+The `notebooks/` directory contains development and experimental Jupyter notebooks
+used during the projects development. Final implementation is in the `MD_Project/` directory and `.py` modules.
