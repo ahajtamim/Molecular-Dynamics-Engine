@@ -29,11 +29,12 @@ def static_plot(position, particles, box_length):
     ax.legend(loc="upper right") 
     ax.set_title("MD Engine - Particle Positions") 
     ax.grid(True)
+    plt.savefig('Files/Particle_Positions.png')
     
     return fig, ax
 
 
-def animate_plot(position, time, box_length, filename="Videos/Particle_Animation.mp4"):
+def animate_plot(position, time, box_length, filename="Files/Particle_Animation.mp4"):
     '''
     Creates an animation projecting data from particle positions
     '''

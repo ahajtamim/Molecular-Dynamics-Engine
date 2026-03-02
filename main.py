@@ -8,7 +8,7 @@ if __name__ == "__main__": #Only run this code when this file is executed direct
                                                                                                             ky = 0.0, 
                                                                                                             mass = 1.0,
 
-                                                                                                            particles = 30,
+                                                                                                            particles = 20,
                                                                                                             boltzmann = 1.0,
                                                                                                             gamma = 0.02,
                                                                                                             target_temp = 1, 

@@ -16,7 +16,7 @@ def Molecular_Dynamics_Engine(kx=1, ky=1, mass=1, particles=2, boltzmann=1, gamm
     gamma : Friction in system
     target_temp : Target temperature of system
 
-    dt = 0.01 : Designated timestep
+    dt : Designated timestep
     total_time : Total runtime of system
 
     rand_position_scale : Scales the random initial position values of particles
