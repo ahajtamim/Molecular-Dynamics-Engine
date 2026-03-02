@@ -17,10 +17,7 @@ The simulation generates a video animation automatically.
 By default, the animation is saved to: "Files/Particle_Animation.mp4"
 
 
-<video width="800" controls>
-  <source src="Files/Particle_Animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch simulation video](Files/Particle_Animation.mp4)
 
 ## Python Files
 
