@@ -11,7 +11,7 @@ When you run this simulation, you'll get:
 
 The engine will generate a plot depicting particle positions which is saved as "Files/Particle_Positions.png"
 
-Files/Particle_Positions.png
+![Particle positions](Files/Particle_Positions.png)
 
 The simulation generates a video animation automatically.  
 By default, the animation is saved to: "Files/Particle_Animation.mp4"
@@ -36,18 +36,18 @@ By default, the animation is saved to: "Files/Particle_Animation.mp4"
 
 ### Parameters
 
-kx : Spring constant for x position
-ky : Spring constant for y position
-mass : Mass of particle
-particles : Number of particles
-boltzmann : In the surroundings at given temperature
-gamma : Friction in system
-target_temp : Target temperature of system
-dt : Designated timestep
-total_time : Total runtime of system
-rand_position_scale : Scales the random initial position values of particles
-epsilon : Max strength of particle attraction
-lennard_sigma : Radius of particle
-D : Number of Dimensions  
+- kx : Spring constant for x position
+- ky : Spring constant for y position
+- mass : Mass of particle
+- particles : Number of particles
+- boltzmann : In the surroundings at given temperature
+- gamma : Friction in system
+- target_temp : Target temperature of system
+- dt : Designated timestep
+- total_time : Total runtime of system
+- rand_position_scale : Scales the random initial position values of particles
+- epsilon : Max strength of particle attraction
+- lennard_sigma : Radius of particle
+- D : Number of Dimensions  
 
 
